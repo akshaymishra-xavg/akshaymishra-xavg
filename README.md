@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @akshaymishra-xavg
-- 👀 I’m interested in speech-processing and training llms in local indic languages. 
-- 🌱 I’m currently learning ai-ml and performance optimization in ai-compute. 
-- 💞️ I’m looking to collaborate on local language speech processing. 
-- 📫 How to reach me - email: akshay.mishra@xaverage.com
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I can learn and copy your good attributes. 
+Hi, I’m Akshay Mishra.
 
-<!---
-akshaymishra-xavg/akshaymishra-xavg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in speech processing, multilingual AI systems, and building practical products for Indian-language users. My current work focuses on voice-first applications, local-language AI workflows, and performance-conscious AI integrations.
+
+I’m learning and experimenting across AI/ML, speech technologies, LLM workflows, and scalable software architecture.
+
+I’m open to collaborating on projects related to local-language speech processing, multilingual user experiences, and applied AI systems.
+
+You can reach me at: [akshay.mishra@xaverage.com](mailto:akshay.mishra@xaverage.com)
+
+Pronouns: He / Him
